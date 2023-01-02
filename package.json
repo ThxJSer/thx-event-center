@@ -1,0 +1,14 @@
+{
+  "name": "thx-event-center",
+  "version": "1.0.0",
+  "description": "Front-end MVEC architecture, let frontend develop just like MVC framework.",
+  "main": "index.js",
+  "keywords": ["MVEC", "MVC", "event center", "framework", "architecture", "thxjser"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thxJSer",
+  "license": "MIT",
+  "type": "git",
+  "url": "https://github.com/ThxJSer/thx-event-center.git"
+}
