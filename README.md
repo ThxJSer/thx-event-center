@@ -1,5 +1,7 @@
 # MVEC architecture
 
+![MVEC concept](/MVEC.png "MVEC concept")
+
 ```mermaid
 sequenceDiagram
   Note right of View: Do some thing, just like click a button !
